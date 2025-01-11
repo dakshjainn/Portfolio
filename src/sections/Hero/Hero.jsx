@@ -35,13 +35,16 @@ function Hero() {
         </h1>
         <h2>Full Stack Developer</h2>
         <span>
-          <a href="htttps://twitter.com/" target="_blank">
+          <a href="https://x.com/dakshjainn" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="htttps://github.com/" target="_blank">
+          <a href="https://github.com/dakshjainn" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="htttps://linkdin.com/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/daksh-jain-61040b271/"
+            target="_blank"
+          >
             <img src={linkdinIcon} alt="linkdin icon" />
           </a>
         </span>
@@ -50,7 +53,7 @@ function Hero() {
           from Scaler School of Technology, BITS Pilani, and WOOLF University.
           Passionate about technology and driven to build a career in the field.
         </p>
-        <a href="" >
+        <a href="">
           <button className="hover">Resume</button>
         </a>
       </div>
